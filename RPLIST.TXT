@@ -1,0 +1,4 @@
+podpis.by
+setting_parameters.ert;Установка параметров podpis.by
+podpis_reportSignedDoc.ert;Отчет о документах обмена с порталом
+podpis_BatchSendingDoc.ert;Пакетная отправка документов
